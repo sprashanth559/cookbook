@@ -2,3 +2,5 @@ sambar
 onions 
 dhal
 tamoto
+garlic
+
