@@ -7,3 +7,4 @@ sugar
 apples
 1tb spoon cennamon
 eggs
+salt
